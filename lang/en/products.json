@@ -1,0 +1,59 @@
+{
+  "unit": "un",
+  "cart": "cart",
+  "subscribe": "subscribe",
+  "account": "account",
+  "address": "address",
+  "orders": "orders",
+  "logout": "logout",
+  "your_profile": "your profile",
+  "orders_history": "orders history",
+  "order_id": "Order ID",
+  "date": "Date",
+  "status": "Status",
+  "price": "Price",
+  "phone_number": "phone number",
+  "type": "Type",
+
+  "error": {
+    "error": "Happen an error with your checkout. Please try again.",
+    "contact_us": "If you can't resolve, please contact-us by email or phone call.",
+    "checkout": "Back to checkout"
+  },
+
+  "mbway": {
+    "inbox": "Please check your app mbway to complete the order"
+  },
+
+  "checkout": {
+    "total": "total",
+    "excluding_shipping": "excluding shipping",
+    "checkout": "checkout",
+    "empty_cart": "empty cart",
+    "shopping_cart": "shopping cart",
+    "checkout_details": "checkout details",
+    "order_complete": "order complete",
+    "product": "product",
+    "price": "price",
+    "quantity": "quantity",
+    "remove": "remove",
+    "terms": "By continuing, I declare that I have read and accept the :terms and understand the :link",
+    "conditions": " Conditions of Purchase",
+    "terms_privacy": "Privacy and Cookies Policy",
+    "shipping_address": "Shipping Address",
+    "payment_address": "Billing Address",
+    "billing_address_same_as_shipping": "Billing address same as shipping address",
+    "payment_method": "Payment Method",
+    "order_summary": "Order Summary",
+    "shipping": "shipping",
+    "place_order": "place order",
+
+    "nif_not_valid": "The Vat Number is not a valid number."
+  },
+
+  "no_items": {
+    "ups": "Ups!",
+    "cart_empty": "Your cart is empty",
+    "add_a_product": "Add a product to continue shopping"
+  }
+}

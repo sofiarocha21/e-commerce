@@ -1,0 +1,58 @@
+{
+  "unit": "un",
+  "cart": "carrinho",
+  "subscribe": "subscrever",
+  "account": "conta",
+  "address": "morada",
+  "orders": "encomendas",
+  "logout": "sair",
+  "your_profile": "o seu perfil",
+  "orders_history": "histórico de encomendas",
+  "order_id": "ID da Encomenda",
+  "date": "Data",
+  "status": "Estado",
+  "price": "Preço",
+  "phone_number": "número de telefone",
+  "type": "Tipo",
+
+  "error": {
+    "error": "Ocorreu um erro durante o seu pagamento. Por favor, tente novamente.",
+    "contact_us": "Se não conseguir resolver, contacte-nos por e-mail ou telefone.",
+    "checkout": "Voltar ao pagamento"
+  },
+
+  "mbway": {
+    "inbox": "Por favor, verifique a sua app MB WAY para concluir a encomenda"
+  },
+
+  "checkout": {
+    "total": "total",
+    "excluding_shipping": "sem custos de envio",
+    "checkout": "finalizar compra",
+    "empty_cart": "carrinho vazio",
+    "shopping_cart": "carrinho de compras",
+    "checkout_details": "detalhes da compra",
+    "order_complete": "encomenda concluída",
+    "product": "produto",
+    "price": "preço",
+    "quantity": "quantidade",
+    "remove": "remover",
+    "terms": "Ao continuar, declaro que li e aceito os :terms e compreendo o :link",
+    "conditions": " Condições de Compra",
+    "terms_privacy": "Política de Privacidade e Cookies",
+    "shipping_address": "Morada de Entrega",
+    "payment_address": "Morada de Faturação",
+    "billing_address_same_as_shipping": "Morada de faturação igual à morada de envio",
+    "payment_method": "Método de Pagamento",
+    "order_summary": "Resumo da Encomenda",
+    "shipping": "entrega",
+    "place_order": "efetuar encomenda",
+    "nif_not_valid": "O número de contribuinte não é válido."
+  },
+
+  "no_items": {
+    "ups": "Ups!",
+    "cart_empty": "O seu carrinho está vazio",
+    "add_a_product": "Adicione um produto para continuar as suas compras"
+  }
+}

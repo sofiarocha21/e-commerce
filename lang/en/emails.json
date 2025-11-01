@@ -1,0 +1,54 @@
+{
+  "order_concluded": {
+    "subject": "Order concluded",
+    "registed": "Your order has been registered",
+    "product": "Product",
+    "description": "Description",
+    "price": "Price",
+    "type": "Type",
+    "information_subscription": "Information about your subscription",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "subscription": "Subscription",
+    "payment_method": "Payment method",
+    "credit_card": "Credit card",
+    "shipping": "Shipping",
+    "contacts": "If you have any questions, contact us at +351 91xxxxxxxx or by email at <a href=\"mailto:example@furniro.com\">example@furniro.com</a>",
+    "client_information": "Client information",
+    "shipping_address": "Shipping address",
+    "quantity": "Quantity",
+    "product_information": "Product information",
+    "product_name": "Name",
+    "size": "Size",
+    "shipping_price": "Shipping cost",
+    "total_paid": "Total paid",
+    "automatic_message": "Message automatically sent by the system from the website furniro.com",
+    "no_reply": "Do not reply",
+    "moloni_document": "We have sent the attached invoice related to your order"
+  },
+
+  "reset_password": {
+    "reset_password": "Reset Password",
+    "receive_link": "We received a request to reset your password. Click the link below to set a new password:",
+    "dont_request": "If you did not request a password reset, please ignore this email — your password will remain unchanged.",
+    "link_expired": "This link will expire in 60 minutes for security reasons.",
+    "thank_you": "Thank you,",
+    "subject": "Reset your password in a few clicks",
+    "hello": "Hello,"
+  },
+
+  "password_changed": {
+    "confirmed": "This is a confirmation that your password was successfully changed on Furniro.",
+    "confirmation": "If you made this change, no further action is needed.",
+    "dont_change": "If you did <b>not</b> change your password, please reset it immediately using the link below or contact our support team for help:",
+    "security": "For your security, we recommend not sharing your login information with anyone.",
+    "subject": "Your Password Has Been Changed"
+  },
+
+  "verify_email": {
+    "verify_email": "Thanks for signing up! Please verify your email by clicking the button below.",
+    "verify_email_button": "Verify email",
+    "title": "Verify your email",
+    "subject": "Please Verify Your Email Address"
+  }
+}

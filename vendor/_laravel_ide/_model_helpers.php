@@ -8,6 +8,9 @@ namespace App\Models {
      * @property \Illuminate\Support\Carbon|null $updated_at
      * @property \Illuminate\Support\Carbon|null $created_at
      * @property string|null $remember_token
+     * @property string|null $two_factor_confirmed_at
+     * @property string|null $two_factor_recovery_codes
+     * @property string|null $two_factor_secret
      * @property string $password
      * @property \Illuminate\Support\Carbon|null $email_verified_at
      * @property string $email
@@ -20,6 +23,9 @@ namespace App\Models {
      * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereEmail($value)
      * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereEmailVerifiedAt($value)
      * @method static \Illuminate\Database\Eloquent\Builder<User>|User wherePassword($value)
+     * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereTwoFactorSecret($value)
+     * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereTwoFactorRecoveryCodes($value)
+     * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereTwoFactorConfirmedAt($value)
      * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereRememberToken($value)
      * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereCreatedAt($value)
      * @method static \Illuminate\Database\Eloquent\Builder<User>|User whereUpdatedAt($value)

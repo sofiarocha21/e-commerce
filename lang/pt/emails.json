@@ -1,0 +1,59 @@
+{
+  "order_concluded": {
+    "subject": "Encomenda concluída",
+    "registed": "A sua encomenda foi registada",
+    "product": "Produto",
+    "description": "Descrição",
+    "price": "Preço",
+    "type": "Tipo",
+    "information_subscription": "Informações sobre a sua subscrição",
+    "monthly": "Mensal",
+    "yearly": "Anual",
+    "subscription": "Subscrição",
+    "payment_method": "Método de pagamento",
+    "credit_card": "Cartão de crédito",
+    "shipping": "Envio",
+    "contacts": "Se tiver alguma questão, contacte-nos através do +351 91xxxxxxxx ou através do email <a href=\"mailto:exmaple@furniro.com\">example@furniro.com</a>",
+    "client_information": "Informações do cliente",
+    "shipping_address": "Endereço de entrega",
+    "quantity": "Quantidade",
+    "product_information": "Informações dos produtos",
+    "product_name": "Nome",
+    "size": "Tamanho",
+    "shipping_price": "Portes de envio",
+    "total_paid": "Total pago",
+    "automatic_message": "Mensagem enviada automaticamente pelo sistema, a partir do website furniro.com",
+    "no_reply": "Não responder",
+    "moloni_document": "Enviamos a fatura em anexo referente à encomenda",
+
+    "welcome": "A sua conta foi confirmada.",
+    "call_to_action": "Navegue, descubra e adicione os seus favoritos ao carrinho hoje mesmo.",
+    "duplicated_email": "Este endereço de e-mail já está registado.",
+    "start_shopping": "Começar a comprar"
+  },
+
+  "reset_password": {
+    "reset_password": "Redefinir password",
+    "receive_link": "Recebemos um pedido para redefinir a sua palavra-passe. Clique no link abaixo para definir uma nova palavra-passe:",
+    "dont_request": "Se não solicitou a redefinição da sua palavra-passe, ignore este e-mail — a sua palavra-passe permanecerá inalterada.",
+    "link_expired": "Este link expirará em 60 minutos por motivos de segurança.",
+    "thank_you": "Obrigado,",
+    "subject": "Redefina a sua palavra-passe em poucos cliques",
+    "olá": "Olá,"
+  },
+
+  "password_changed": {
+    "confirmed": "Esta é uma confirmação de que a sua palavra-passe foi alterada com sucesso no Furniro.",
+    "confirmation": "Se fez esta alteração, não é necessária mais nenhuma ação.",
+    "dont_change": "Se <b>não</b> alterou a sua palavra-passe, reponha-a imediatamente utilizando o link abaixo ou contacte a nossa equipa de suporte para obter ajuda:",
+    "security": "Para sua segurança, recomendamos não partilhar as suas informações de login com Alguém.",
+    "subject": "A sua palavra-passe foi alterada"
+  },
+
+  "verify_email": {
+    "verify_email": "Obrigado pelo registo! Por favor, verifique o seu e-mail clicando no botão abaixo.",
+    "verify_email_button": "Verificar e-mail",
+    "title": "Verifique o seu e-mail",
+    "suject": "Por favor, verifique o seu endereço de e-mail"
+  }
+}
