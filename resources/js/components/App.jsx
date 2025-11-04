@@ -1,10 +1,9 @@
-import React, { useState } from "react";
-import Navbar from "./Layout/Navbar";
+ import Home from "./Home/Home";
 
 function App() {
   return (
     <>
-      <Navbar />
+      <Home />
     </>
   );
 }
