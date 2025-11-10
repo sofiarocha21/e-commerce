@@ -10,6 +10,8 @@
   --font-poppins: "Poppins";
   --font-montserrat: "Montserrat";
 
+  --default-font-family: "Poppins";
+
   --color-primary: #b88e2f;
   --color-font: #333333;
   --color-beje: #fff3e3;
@@ -23,5 +25,6 @@
   --color-gray-four: #b0b0b0;
   --color-gray-five: #d8d8d8;
   --color-gray-six: #9f9f9f;
+  --color-gray-seven: #666666;
   --color-hover: #d0a032;
 }

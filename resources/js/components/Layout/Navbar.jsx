@@ -13,7 +13,7 @@ export default function Navbar() {
   const { t } = useTranslation("home");
   return (
     <div>
-      <main className="flex px-4 lg:pl-12 lg:pr-24 justify-between items-center py-3 lg:py-9 relative">
+      <main className="flex px-4 lg:pl-40 lg:pr-40 justify-between items-center py-3 lg:py-9 relative">
         <Link href="/" className="flex items-center gap-1 ">
           <img className="lg:h-9" src={logo}></img>
           <h1 className="hidden lg:block font-montserrat font-bold lg:text-[34px] lg:leading-[34px]">
